@@ -1,15 +1,15 @@
-[![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
 
-# Postdoc OASIS
-This is the central hub for information pertaining to ESIIL Postdocs
 
-# [Your Name]
+# Team Science
+This is the central hub for information pertaining to ESIIL Team Science Project
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+# [Team Science]
+
+Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our Team Science research at ESIIL, supervised and ran by Dr. Jennifer Balch, Dr. John Parker and Dr. Kayleigh Ward. 
 
 ## Your Project
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+Team Science at ESIIL is committed to improving scientific teams and collaborations through bettering team dynamics, inclusion, and team and organizational cultural values.
 
 ## Project Proposal
 
@@ -17,11 +17,10 @@ Welcome to the [Your Name] repository, part of the Environmental Data Science In
 
 ## Collaborators and Co-Authors 
 
-[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
 
-- **Collaborator 1**: Brief description.
-- **Collaborator 2**: Brief description.
-- ...
+- **Dr. Jennifer Balch**: [Brief description](https://earthlab.colorado.edu/our-team/jennifer-k-balch).
+- **Dr. John Parker**: [Brief description](https://www.sv.uio.no/iss/english/people/aca/johnpar/).
+- **Dr. Kayleigh Ward**: [Brief description](https://kayleighward.com/).
 
 ## Code Repository
 
