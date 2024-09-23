@@ -18,9 +18,9 @@ Team Science at ESIIL is committed to improving scientific teams and collaborati
 ## Collaborators and Co-Authors 
 
 
-- **Dr. Jennifer Balch**: [Brief description](https://earthlab.colorado.edu/our-team/jennifer-k-balch).
-- **Dr. John Parker**: [Brief description](https://www.sv.uio.no/iss/english/people/aca/johnpar/).
-- **Dr. Kayleigh Ward**: [Brief description](https://kayleighward.com/).
+- **Dr. Jennifer Balch**: [https://earthlab.colorado.edu/our-team/jennifer-k-balch]
+- **Dr. John Parker**: [https://www.sv.uio.no/iss/english/people/aca/johnpar/]
+- **Dr. Kayleigh Ward**: [https://kayleighward.com/]
 
 ## Code Repository
 
