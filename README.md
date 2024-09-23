@@ -7,7 +7,7 @@ This is the central hub for information pertaining to ESIIL Team Science Project
 
 Welcome to the Team Science repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our Team Science research at ESIIL, supervised and ran by Dr. Jennifer Balch, Dr. John Parker and Dr. Kayleigh Ward. 
 
-## Your Project
+## Project Focus
 
 Team Science at ESIIL is committed to improving scientific teams and collaborations through bettering team dynamics, inclusion, and team and organizational cultural values.
 
@@ -32,7 +32,7 @@ This section of the repository will include all the code developed for the proje
 
 ## Meeting Notes and Agendas
 
-When you meet with your advisor, collaborators, or a team, you should take notes here. 
+None at this time.
 
 ## Contributing to This Repository
 
