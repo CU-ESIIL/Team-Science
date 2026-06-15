@@ -13,29 +13,15 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Resources:
-       - Code of Conduct: resources/code-of-conduct.md
-       - Participant agreement: resources/participant_agreement.md
-       - R and Python bilingualism: resources/bilingualism_md.md
-       - STAC: resources/stac_mount_save.md
-       - Sentinal 2 STAC example: resources/Pull_Sentinal2_l2_data.md
-       - Markdown: resources/markdown_basics.md
-       - Cyverse basics: resources/cyverse_basics.md
-       - Github basics: resources/github_basics.md
-       - Cyverse hacks: resources/cyverse_hacks.md
-       - Docker basics: resources/docker_basics.md
-       - Working groups: resources/working_groups_and_postdocs.md
-  - Notes:
-       - OASIS orientation: resources/pre_meeting_notes.md
-  - Code documentation:
-       - Data processing: resources/data_processing.md
-       - Data analysis: resources/data_analysis.md
-       - Visualizations: resources/visualizations.md 
-  - Manuscript drafts:
-       - Manuscript: resources/manuscript.md
-  - References:
-       - Notes from readings: resources/notes_from_readings.md
-       - Citations: resources/citations.md
+  - Research Projects: 
+       - Meta-analysis: add markdown file under resources directory
+       - Observational study: add markdown file
+       - Cross-center study: add markdown file      
+  - Working Group Training Resources:
+       - Workshops: add a markdown file with links to zenodo trainings and recordings under resources directory
+  - Dive into Team Science:
+        - Explainers: add a markdown file with links to zenodo explainers under resources directory
+        - Resources: add a markdown file with links to zenodo resources and recordings under resources directory
 
 # Configuration
 theme:
