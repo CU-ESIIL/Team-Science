@@ -15,6 +15,9 @@ Team Science at ESIIL is committed to ....
 
 ## Code Repository
 
+Currently we do not have any open code associated with our different team science research projects and resources for working groups. However, we will be producing a knowledge map soon. Check back for a link to our SciTS knowledge map repository at the end of 2026!
 
 ## Contributing to This Repository
+
+At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly if you are not affiliated with ESIIL. 
 
