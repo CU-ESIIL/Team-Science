@@ -1,19 +1,11 @@
 
+# The Science of Team Science at ESIIL, an NSF Synthesis Center
 
-# Team Science
-This is the central hub for information pertaining to ESIIL Team Science Project
+Welcome to the Team Science repository, part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository serves as the central hub for our Team Science research at ESIIL, supervised and ran by Dr. Jennifer Balch, Dr. John Parker and Dr. Kayleigh Ward. You will also find resources for our ESIIL working groups, such as Team Science trainings and workshops. 
 
-# Team Science
+## Accelerating scientific innovation with teams
 
-Welcome to the Team Science repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our Team Science research at ESIIL, supervised and ran by Dr. Jennifer Balch, Dr. John Parker and Dr. Kayleigh Ward. 
-
-## Project Focus
-
-Team Science at ESIIL is committed to improving scientific teams and collaborations through bettering team dynamics, inclusion, and team and organizational cultural values.
-
-## Project Proposal
-
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+Team Science at ESIIL is committed to ....
 
 ## Collaborators and Co-Authors 
 
