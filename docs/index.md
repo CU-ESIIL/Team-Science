@@ -18,5 +18,5 @@ Synthesis and environmental data science increasingly depend on complex teams wo
 
 ## Contributing to our Projects and SciTS Resources, Trainings & Explainers
 
-At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly. If you are just explore team at ESIIL we also recommend checking out our all-star [working groups](https://esiil.org/working-groups). 
+At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly. If you are just exploring team science at ESIIL we also recommend checking out our all-star [working groups](https://esiil.org/working-groups).
 
