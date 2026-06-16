@@ -3,7 +3,7 @@
 
 Welcome to the Team Science repository, part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository serves as the central hub for our Team Science research at ESIIL, supervised and ran by Dr. Jennifer Balch, Dr. John Parker and Dr. Kayleigh Ward. You will also find resources for our ESIIL working groups, such as Team Science trainings and workshops. 
 
-## Accelerating scientific innovation within teams
+## Accelerating Scientific Innovation within Teams
 
 Team Science at ESIIL is committed to understanding how environmental data science and synthesis teams can collaborate more effectively and creatively to accelerate scientific discovery. Our work examines the social, organizational, and facilitation practices that shape team success, including how working groups form shared goals, integrate expertise, manage collaboration, and produce innovative research outcomes. Through a combination of meta-analysis, observational research with ESIIL working groups, and comparative studies of working groups across NSF synthesis centers, we aim to identify evidence-based strategies that support high-functioning interdisciplinary teams.
 
