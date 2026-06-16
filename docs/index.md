@@ -1,6 +1,6 @@
 # Kayleigh Ward
 
-Welcome to my team science repository, part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository serves as the central hub for our team science research at ESIIL as well as resources for our different working group cohorts
+Welcome to my team science repository, part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository serves as the central hub for our team science research at ESIIL as well as resources for our different working group cohorts.
 
 ## Advancing Innovation, Discovery and Collaboration of EDS & Synthesis Teams
 
