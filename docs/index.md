@@ -11,15 +11,12 @@ Across a meta-analysis of team science literature, an observational study of ESI
 Synthesis and environmental data science increasingly depend on complex teams working together to integrate increasingly complex data and expertise, yet the processes that support successful collaboration are often not directly studied (e.g., live teams) or treated as secondary to tracking scientific outputs. By identifying patterns, barriers, and best practices across synthesis teams, our projects aim to improve how collaborative research is designed, supported, facilitated, and evaluated. 
 
 ## Collaborators
-- Dr. John Parker, ESIIL Team Science Lead
+- Kayleigh Ward, Team Science Postdoctoral Associate
+- John Parker, ESIIL Team Science Lead
 - Susan Sullivan, Community Care Lead
-- Dr. Jennifer Balch, ESIIL Director
+- Jennifer Balch, ESIIL Director
 
-## Code Repository
+## Contributing to our Projects and SciTS Resources, Trainings & Explainers
 
-Currently we do not have any open code associated with our different team science research projects and resources for working groups. However, we will be producing a knowledge map soon. Check back for a link to our SciTS knowledge map repository at the end of 2026!
-
-## Contributing to This Repository
-
-At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly. 
+At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly. If you are just explore team at ESIIL we also recommend checking out our all-star [working groups](https://esiil.org/working-groups). 
 
