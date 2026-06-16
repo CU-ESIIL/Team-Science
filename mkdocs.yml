@@ -14,11 +14,11 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 nav:
   - Home: index.md
   - Research Projects: 
-       - Meta-analysis: add markdown file under resources directory
-       - Observational study: add markdown file
-       - Cross-center study: add markdown file      
+       - Meta-analysis: resources/meta_analysis.md 
+       - Observational study: resources/observational_study.md
+       - Cross-center study: resources/cross_center_study.md     
   - Working Group Training Resources:
-       - Workshops: add a markdown file with links to zenodo trainings and recordings under resources directory
+       - Workshops: resources/workshops.md
   - Dive into Team Science:
         - Explainers: add a markdown file with links to zenodo explainers under resources directory
         - Resources: add a markdown file with links to zenodo resources and recordings under resources directory
