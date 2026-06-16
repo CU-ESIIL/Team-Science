@@ -20,8 +20,8 @@ nav:
   - Working Group Training Resources:
        - Workshops: resources/workshops.md
   - Dive into Team Science:
-        - Explainers: add a markdown file with links to zenodo explainers under resources directory
-        - Resources: add a markdown file with links to zenodo resources and recordings under resources directory
+        - Explainers: resources/explainers.md
+        - Resources: resources/resources.md
 
 # Configuration
 theme:
