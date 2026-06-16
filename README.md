@@ -15,11 +15,8 @@ Many of today’s most urgent environmental challenges require collaborative app
 - **Dr. John Parker**: [University website](https://www.sv.uio.no/iss/english/people/aca/johnpar/)
 - **Dr. Kayleigh Ward**: [ESIIL website](https://esiil.org/research#postdoc)
 
-## Code Repository
 
-Currently we do not have any open code associated with our different team science research projects and resources for working groups. However, we will be producing a knowledge map soon. Check back for a link to our SciTS knowledge map repository at the end of 2026!
+## Contributing to our Projects and SciTS Resources, Trainings & Explainers
 
-## Contributing to This Repository
-
-At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly if you are not affiliated with ESIIL. 
+At this time we only welcome contributions from ESIIL affiliated staff and working groups. Please contact Kayleigh Ward directly. If you are just exploring team science at ESIIL we also recommend checking out our all-star [working groups](https://esiil.org/working-groups). 
 
